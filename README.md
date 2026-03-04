@@ -45,10 +45,16 @@ University of Dschang, Cameroon (2012 – 2016)
 
 ---
 
+## 📂 Projects
+- **Terraform Demo** → [projects/terraform-demo](./projects/terraform-demo)  
+- **Kubernetes Demo** → [projects/kubernetes-demo](./projects/kubernetes-demo)  
+
+---
+
 ## 📫 Connect With Me
 - Email: obintui368@gmail.com  
-- LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/))  
-- GitHub: [GitHub Profile](https://github.com/obintui10)  
+- LinkedIn: [Obi Ayuk Ntui](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/)  
+- GitHub: [obintui10](https://github.com/obintui10)
 
 ---
 
