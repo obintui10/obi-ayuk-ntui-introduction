@@ -4,8 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
 [![Email](https://img.shields.io/badge/Email-obintui368%40gmail.com-red?style=flat&logo=gmail)](mailto:obintui368@gmail.com)
 
-# 👋 Hi, I'm Obi Ayuk Ntui
-
 ## 🚀 About Me
 I'm a **Senior Cloud Engineer** with 5+ years of experience designing and delivering secure, scalable, and highly available cloud solutions. My expertise spans enterprise technology, banking, and marketing analytics domains. I specialize in cloud architecture, automation, CI/CD, and observability, ensuring efficient and reliable deployments.
 
