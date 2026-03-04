@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Obi Ayuk Ntui  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obi%20Ayuk%20Ntui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/) 
+[![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
+[![Email](https://img.shields.io/badge/Email-obintui368%40gmail.com-red?style=flat&logo=gmail)](mailto:obintui368@gmail.com)
+
 # 👋 Hi, I'm Obi Ayuk Ntui
 
 ## 🚀 About Me
