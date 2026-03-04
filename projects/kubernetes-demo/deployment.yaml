@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: obi-demo-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: obi-demo
+  template:
+    metadata:
+      labels:
+        app: obi-demo
+    spec:
+      containers:
+      - name: obi-demo-container
+        image: nginx:latest
+        ports:
+        - containerPort: 80
