@@ -4,23 +4,51 @@
 [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
 [![Email](https://img.shields.io/badge/Email-obintui368%40gmail.com-red?style=flat&logo=gmail)](mailto:obintui368@gmail.com)
 
+---
+
 ## 🚀 About Me
 I'm a **Senior Cloud Engineer** with 5+ years of experience designing and delivering secure, scalable, and highly available cloud solutions. My expertise spans enterprise technology, banking, and marketing analytics domains. I specialize in cloud architecture, automation, CI/CD, and observability, ensuring efficient and reliable deployments.
-
-- 🌐 Experienced in AWS (EC2, S3, Lambda, CloudFormation, IAM, VPC, Auto Scaling, Load Balancing, CloudWatch, CloudTrail)
-- ⚙️ Skilled in Infrastructure as Code (Terraform, Ansible) and containerization (Docker, Kubernetes, Helm)
-- 🔒 Strong background in cloud security (IAM, Secrets Manager, OAuth2, Access Control)
-- 📊 Passionate about monitoring & observability (Prometheus, Grafana, ELK Stack, Splunk)
-- 🤝 Adept at collaborating with cross-functional teams to deliver impactful solutions
 
 ---
 
 ## 🛠️ Skills
-- **Programming & Scripting:** Python, Bash  
-- **Databases:** RDS, MySQL, PostgreSQL, DynamoDB  
-- **Operating Systems:** Windows, Linux (Red Hat, Ubuntu), Unix  
-- **CI/CD & Version Control:** Git, GitHub, Jenkins  
-- **Project Management:** Agile, Waterfall, SDLC, JIRA, Confluence  
+
+### 🌐 Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+
+### 🔒 Security
+![IAM](https://img.shields.io/badge/IAM-Security-blue?style=flat)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-orange?style=flat)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+### ⚙️ CI/CD & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### 📋 Project Management
+![Agile](https://img.shields.io/badge/Agile-009688?style=flat&logo=agile&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 ---
 
