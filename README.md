@@ -84,9 +84,9 @@ University of Dschang, Cameroon (2012 – 2016)
 ---
 
 ## 📫 Connect With Me
-- Email: obintui368@gmail.com  
-- LinkedIn: [Obi Ayuk Ntui](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/)  
-- GitHub: [obintui10](https://github.com/obintui10)
+- Email: [![Email](https://img.shields.io/badge/Email-obintui368%40gmail.com-red?style=flat&logo=gmail)](mailto:obintui368@gmail.com)  
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obi%20Ayuk%20Ntui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/)  
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
 
 ---
 
