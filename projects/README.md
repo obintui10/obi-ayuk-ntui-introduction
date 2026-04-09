@@ -1,27 +1,31 @@
-# Terraform Demo
+# 🚀 Advanced Terraform AWS EC2 Demo
 
 ## 📌 Overview
-This demo project shows how to provision a simple **EC2 instance on AWS** using Terraform.  
-It is meant to demonstrate my **Infrastructure as Code (IaC)** skills, not a production setup.
+This project demonstrates a **production‑grade Terraform configuration** for provisioning an AWS EC2 instance.  
+It highlights **Infrastructure as Code (IaC)** best practices, secure networking, automated provisioning, and observability — moving beyond a simple demo into **enterprise‑ready design**.
 
 ---
 
 ## ⚙️ What It Does
-- Uses the AWS provider (`us-east-1` region).
-- Creates a small EC2 instance (`t2.micro`) with a tag `Obi-Demo-EC2`.
-- Demonstrates how Terraform can automate cloud resource provisioning.
+- Configures AWS provider (`us-east-1` region).
+- Creates an EC2 instance with **user_data automation** (Apache web server + demo landing page).
+- Applies **least‑privilege security groups** (restricted SSH, open HTTP).
+- Associates an **Elastic IP** for stable access.
+- Sets up a **CloudWatch alarm** for proactive CPU monitoring.
+- Uses **variables and tags** for modularity and environment separation.
 
 ---
 
 ## 🛠️ Files
-- **main.tf** → Terraform configuration file that defines the EC2 instance.
-- *(Optional)* `variables.tf` → Can be added to parameterize values like region, instance type, or AMI.
+- **main.tf** → Core Terraform configuration.
+- **variables.tf** → Parameterized values (instance type, project name, etc.).
+- **outputs.tf** → Useful outputs (Elastic IP, instance ID, alarm name).
+- **README.md** → Documentation for recruiters and collaborators.
 
 ---
 
 ## 🚀 How to Run
 1. Install [Terraform](https://developer.hashicorp.com/terraform/downloads).
-2. Configure your AWS credentials (`aws configure`).
-3. Initialize Terraform:
+2. Configure AWS credentials:
    ```bash
-   terraform init
+   aws configure
