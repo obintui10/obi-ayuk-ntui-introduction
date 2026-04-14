@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **Senior Cloud Engineer** with 5+ years of experience designing and delivering secure, scalable, and highly available cloud solutions. My expertise spans enterprise technology, banking, and marketing analytics domains. I specialize in cloud architecture, automation, CI/CD, and observability, ensuring efficient and reliable deployments.
+I'm a **Senior Cloud Engineer** with 6+ years of experience designing and delivering secure, scalable, and highly available cloud solutions. My expertise spans enterprise technology, banking, and marketing analytics domains. I specialize in cloud architecture, automation, CI/CD, and observability, ensuring efficient and reliable deployments.
 
 ---
 
