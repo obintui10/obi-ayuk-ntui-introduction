@@ -85,17 +85,16 @@ University of Dschang, Cameroon (2012 – 2016)
 
 ```
 ## Mermaid Diagram
-```mermaid
 mindmap
   root((Obi Ayuk Ntui))
-    Cloud & Infrastructure
+    Cloud and Infrastructure
       AWS
       Terraform
       Ansible
       Docker
       Kubernetes
       Helm
-    Security & Compliance
+    Security and Compliance
       IAM
       Secrets Manager
       Audit Compliance
@@ -107,9 +106,13 @@ mindmap
     Development
       Python
       Bash Scripting
-      CI/CD Jenkins/GitHub
+      CI/CD
     Databases
       MySQL
       PostgreSQL
       DynamoDB
-
+    Management
+      Agile
+      JIRA
+      Confluence
+```
