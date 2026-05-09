@@ -75,30 +75,6 @@ I'm a **Senior Cloud Engineer** with 6+ years of experience designing and delive
 **Bachelor of Laws (LL.B.) in Law and Political Science**  
 University of Dschang, Cameroon (2012 – 2016)
 
----
-## 📂 Repository Structure
-repo-name/
-├── app.py
-├── requirements.txt
-├── static/
-├── templates/
-├── .github/workflows/
-└── README.md
-## 🏗 Architectural Box Diagram
-Quick Visualization
-+-----------+        +-----------+        +----------------+
-|  Browser  | -----> | Flask App | -----> | MongoDB Atlas  |
-+-----------+        +-----------+        +----------------+
-
-For multi‑cloud demos, expand side‑by‑side:
-+---------+        +---------+
-| AWS EKS |        | Azure AKS |
-+---------+        +---------+
-       \              /
-        \            /
-         +----------+
-         |  Ingress |
-         +----------+
 
 ---
 
