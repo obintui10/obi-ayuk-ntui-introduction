@@ -77,9 +77,6 @@ University of Dschang, Cameroon (2012 – 2016)
 
 ---
 
-## 📂 Projects
-- **Terraform Demo** → [projects/terraform-demo](./projects/terraform-demo)  
-- **Kubernetes Demo** → [projects/kubernetes-demo](./projects/kubernetes-demo)  
 
 ---
 
