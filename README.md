@@ -76,7 +76,29 @@ I'm a **Senior Cloud Engineer** with 6+ years of experience designing and delive
 University of Dschang, Cameroon (2012 – 2016)
 
 ---
+## 📂 Repository Structure
+repo-name/
+├── app.py
+├── requirements.txt
+├── static/
+├── templates/
+├── .github/workflows/
+└── README.md
+## 🏗 Architectural Box Diagram
+Quick Visualization
++-----------+        +-----------+        +----------------+
+|  Browser  | -----> | Flask App | -----> | MongoDB Atlas  |
++-----------+        +-----------+        +----------------+
 
+For multi‑cloud demos, expand side‑by‑side:
++---------+        +---------+
+| AWS EKS |        | Azure AKS |
++---------+        +---------+
+       \              /
+        \            /
+         +----------+
+         |  Ingress |
+         +----------+
 
 ---
 
@@ -86,5 +108,24 @@ University of Dschang, Cameroon (2012 – 2016)
 [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
 
 ---
+## 🔄 Workflow (Mermaid)
 
-⭐️ Feel free to explore my repositories and projects!
+```mermaid
+flowchart LR
+    A[Browser] --> B[Flask App]
+    B --> C[(MongoDB Atlas)]
+
+For multi‑cloud infra:
+
+```mermaid
+flowchart TB
+    subgraph AWS
+        EKS[EKS Cluster]
+    end
+    subgraph Azure
+        AKS[AKS Cluster]
+    end
+    EKS --> Ingress[Ingress Controller]
+    AKS --> Ingress
+    Ingress --> LB[Cloud Load Balancer]
+
