@@ -82,37 +82,3 @@ University of Dschang, Cameroon (2012 – 2016)
 [![Email](https://img.shields.io/badge/Email-obintui368%40gmail.com-red?style=flat&logo=gmail)](mailto:obintui368@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obi%20Ayuk%20Ntui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/)  
 [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
-
-```
-## Mermaid Diagram
-mindmap
-  root((Obi Ayuk Ntui))
-    Cloud and Infrastructure
-      AWS
-      Terraform
-      Ansible
-      Docker
-      Kubernetes
-      Helm
-    Security and Compliance
-      IAM
-      Secrets Manager
-      Audit Compliance
-    Observability
-      Prometheus
-      Grafana
-      ELK Stack
-      Splunk
-    Development
-      Python
-      Bash Scripting
-      CI/CD
-    Databases
-      MySQL
-      PostgreSQL
-      DynamoDB
-    Management
-      Agile
-      JIRA
-      Confluence
-```
