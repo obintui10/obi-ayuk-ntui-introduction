@@ -83,25 +83,4 @@ University of Dschang, Cameroon (2012 – 2016)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obi%20Ayuk%20Ntui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/obi-ayuk-ntui-71a429221/)  
 [![GitHub](https://img.shields.io/badge/GitHub-obintui10-black?style=flat&logo=github)](https://github.com/obintui10) 
 
----
-## 🔄 Workflow (Mermaid)
-
-```mermaid
-flowchart LR
-    A[Browser] --> B[Flask App]
-    B --> C[(MongoDB Atlas)]
-
-For multi‑cloud infra:
-
-```mermaid
-flowchart TB
-    subgraph AWS
-        EKS[EKS Cluster]
-    end
-    subgraph Azure
-        AKS[AKS Cluster]
-    end
-    EKS --> Ingress[Ingress Controller]
-    AKS --> Ingress
-    Ingress --> LB[Cloud Load Balancer]
 
